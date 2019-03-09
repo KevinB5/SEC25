@@ -30,3 +30,6 @@ available on sale;
 #Verify workflow
 #Implementation Steps
 
+Sites onde podemos buscar info:
+- http://cs.lmu.edu/~ray/notes/javanetexamples/
+
