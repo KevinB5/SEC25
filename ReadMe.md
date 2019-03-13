@@ -6,6 +6,9 @@
 
 #Dúvidas:
 - Interface Gráfica
+- Um user pode comprar e vender ao mesmo tempo?
+- 2 users podem combinar para fazer uma sobrecarga no sistema?
+- 
 
 #To Do List:
 - An initial set of users, the set of goods they own (represented via a set of tuples
