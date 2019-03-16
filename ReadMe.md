@@ -36,3 +36,16 @@ available on sale;
 Sites onde podemos buscar info:
 - http://cs.lmu.edu/~ray/notes/javanetexamples/
 
+#ameaças
+
+-Forjar identidade de um cliente(autenticidade)
+-Alterar o conteúdo de uma mensagem durante a transmissão(integridade)
+-Negar o envio de umaa certa mensagem(repúdio)
+-Retransmissão de mensagens já enviadas(replay attack)
+
+#mecanismos de proteção
+
+-assinatura digital do resumo das mensagens (3 primeiras ameaças)
+-um sequenciador , exclusivo de cada cliente, em cada mensagem deste(ultima ameaça)
+
+
