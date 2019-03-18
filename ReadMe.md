@@ -48,4 +48,8 @@ Sites onde podemos buscar info:
 -assinatura digital do resumo das mensagens (3 primeiras ameaças)
 -um sequenciador , exclusivo de cada cliente, em cada mensagem deste(ultima ameaça)
 
+freshness - enviar sempre o MAC ou uma hash (message digest), e o servidor vai guardando
+		se encontrar outro igual descarta
+		alternativa: usar nonces
+
 
