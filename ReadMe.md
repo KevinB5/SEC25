@@ -8,7 +8,7 @@
 - Interface Gráfica
 - Um user pode comprar e vender ao mesmo tempo?
 - 2 users podem combinar para fazer uma sobrecarga no sistema?
-- 
+- 2 Projetos diferentes? Maven
 
 #To Do List:
 - An initial set of users, the set of goods they own (represented via a set of tuples
@@ -42,6 +42,16 @@ Sites onde podemos buscar info:
 -Alterar o conteúdo de uma mensagem durante a transmissão(integridade)
 -Negar o envio de umaa certa mensagem(repúdio)
 -Retransmissão de mensagens já enviadas(replay attack)
+
+# Info do stor
+
+Meter contador para garantir a frescura
+MAC assume que os dois sabem a chave e seria possivel forjar a chave.
+Diffie Helman partilhar as chaves de forma segura
+numero de sequencia de tcp
+a sessão tem um counter e se não bater certo
+log
+biblioteca neutra para realizar a comunicação
 
 #mecanismos de proteção
 
