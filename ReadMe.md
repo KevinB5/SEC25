@@ -5,10 +5,7 @@
 - Cintia Almeida 85139
 
 #Dúvidas:
-- Interface Gráfica
-- Um user pode comprar e vender ao mesmo tempo?
-- 2 users podem combinar para fazer uma sobrecarga no sistema?
-- 2 Projetos diferentes? Maven
+-O projeto inicia com lista de users e de good predefinidos, como ligam os users? abrem todos automaticamente ou ligam 1 a 1, dizendo o id do user?
 
 #To Do List:
 - An initial set of users, the set of goods they own (represented via a set of tuples
