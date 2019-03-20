@@ -35,8 +35,9 @@ available on sale;
 #Verify workflow
 #Implementation Steps
 
-Sites onde podemos buscar info:
-- http://cs.lmu.edu/~ray/notes/javanetexamples/
+#Sites onde podemos buscar info:
+- http://cs.lmu.edu/~ray/notes/javanetexamples/ (Server-Client)
+- https://gist.github.com/dmydlarz/32c58f537bb7e0ab9ebf (RSA)
 
 #ameaças
 
