@@ -38,6 +38,7 @@ available on sale;
 #Sites onde podemos buscar info:
 - http://cs.lmu.edu/~ray/notes/javanetexamples/ (Server-Client)
 - https://gist.github.com/dmydlarz/32c58f537bb7e0ab9ebf (RSA)
+- https://crypto.stackexchange.com/questions/14339/securely-send-public-key-from-client-to-server-in-rsa (Lógica do RSA)
 
 #ameaças
 
