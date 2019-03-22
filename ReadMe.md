@@ -4,10 +4,6 @@
 - Mário Silva 93799
 - Cintia Almeida 85139
 
-#Onde ficamos 
-
-- Ligação não foi testada
-- Ficamos na leitura do ficheiro
 
 #Dúvidas:
 -O projeto inicia com lista de users e de good predefinidos, como ligam os users? abrem todos automaticamente ou ligam 1 a 1, dizendo o id do user?
