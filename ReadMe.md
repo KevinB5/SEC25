@@ -9,6 +9,7 @@
 - O projeto inicia com lista de users e de good predefinidos, como ligam os users? abrem todos automaticamente ou ligam 1 a 1, dizendo o id do user?
 - O cliente também tem que ler a lista de goods?
 - O que acontece aos PrivateKeys no GenerateKeyPair() ?
+- PKI é uma entidade a parte ou apenas uma classe?
 
 #To Do List:
 - / An initial set of users, the set of goods they own (represented via a set of tuples
