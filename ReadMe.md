@@ -40,6 +40,7 @@ available on sale;
 - https://crypto.stackexchange.com/questions/14339/securely-send-public-key-from-client-to-server-in-rsa (Lógica do RSA)
 - http://www.informit.com/articles/article.aspx?p=170967&seqNum=6 (Implementação do MAC)
 - https://www.programcreek.com/java-api-examples/?class=java.security.KeyStore&method=store (Keystore)
+- https://docs.oracle.com/javase/7/docs/api/java/security/KeyStore.html (KeyStore javadoc)
 
 #ameaças
 
