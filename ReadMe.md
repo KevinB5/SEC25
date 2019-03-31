@@ -4,6 +4,8 @@
 - Mário Silva 93799
 - Cintia Almeida 85139
 
+#Fazer:
+- Fica agora a parte do cartão de cidadão,  persistir os dados e a questão da frescura das mensagens
 
 #Dúvidas:
 - O projeto inicia com lista de users e de good predefinidos, como ligam os users? abrem todos automaticamente ou ligam 1 a 1, dizendo o id do user?
