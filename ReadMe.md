@@ -11,6 +11,11 @@
 #Later:
 - Reenviar ultimo certificado do log após leitura e conexões todas estabelecidas
 
+#To Do:
+- Regular Register
+- Os notarios estão a conectar mas falta enviar mensagens entre eles
+- Métodos bizantinos: write, read e ack
+
 _______________________________________________________________________________________________________________________
 #Dúvidas:
 - O projeto inicia com lista de users e de good predefinidos, como ligam os users? abrem todos automaticamente ou ligam 1 a 1, dizendo o id do user?
