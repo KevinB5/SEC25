@@ -4,9 +4,10 @@
 - Mário Silva 93799
 - Cintia Almeida 85139
 
-#Fazer:
-- Fica agora a parte do cartão de cidadão,  persistir os dados e a questão da frescura das mensagens
+#Dúvidas 2 fase:
+- Se cada replica do notario tem um id diferente? Como faz com a chave? Todos utilizam a mesma chave ou criam novas?
 
+_______________________________________________________________________________________________________________________
 #Dúvidas:
 - O projeto inicia com lista de users e de good predefinidos, como ligam os users? abrem todos automaticamente ou ligam 1 a 1, dizendo o id do user?
 - O cliente também tem que ler a lista de goods?
