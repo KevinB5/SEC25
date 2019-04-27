@@ -6,6 +6,7 @@
 
 #Dúvidas 2 fase:
 - Se cada replica do notario tem um id diferente? Como faz com a chave? Todos utilizam a mesma chave ou criam novas?
+- Log, funciona só imcompleto ou verificamos inicio/fim da ação
 
 _______________________________________________________________________________________________________________________
 #Dúvidas:
