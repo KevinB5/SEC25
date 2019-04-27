@@ -8,6 +8,9 @@
 - Se cada replica do notario tem um id diferente? Como faz com a chave? Todos utilizam a mesma chave ou criam novas?
 - Log, funciona só imcompleto ou verificamos inicio/fim da ação
 
+#Later:
+- Reenviar ultimo certificado do log após leitura e conexões todas estabelecidas
+
 _______________________________________________________________________________________________________________________
 #Dúvidas:
 - O projeto inicia com lista de users e de good predefinidos, como ligam os users? abrem todos automaticamente ou ligam 1 a 1, dizendo o id do user?
