@@ -4,13 +4,6 @@
 - Mário Silva 93799
 - Cintia Almeida 85139
 
-#Dúvidas 2 fase:
-- Se cada replica do notario tem um id diferente? Como faz com a chave? Todos utilizam a mesma chave ou criam novas?
-- Log, funciona só imcompleto ou verificamos inicio/fim da ação
-
-#Later:
-- Reenviar ultimo certificado do log após leitura e conexões todas estabelecidas
-
 #To Do:
 - Regular Register
 - Os notarios estão a conectar mas falta enviar mensagens entre eles
