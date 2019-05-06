@@ -4,6 +4,8 @@
 - Mário Silva 93799
 - Cintia Almeida 85139
 
+https://docs.google.com/document/d/13PkDbctY-2EqfxRd6VVLKXcDkEANlFDkfWoHQ0o3ahs/edit?usp=sharing
+
 #To Do:
 - Regular Register
 - Os notarios estão a conectar mas falta enviar mensagens entre eles
